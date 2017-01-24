@@ -6,19 +6,19 @@
 
 use cmake link glfw static lib to a custom test code
 
-ENV:
-    glfw static lib: libglfw3.a
-    glfw version: 3.2.1
-    OS: MaxOSX 10.11.6
-    CMake: from homebrew
-    Apple LLVM version: 8.0.0
+ENV:<br/>
+    glfw static lib: libglfw3.a<br/>
+    glfw version: 3.2.1<br/>
+    OS: MaxOSX 10.11.6<br/>
+    CMake: from homebrew<br/>
+    Apple LLVM version: 8.0.0<br/>
 
-Use CMake:
-    Copy libglfw3.a to deps
-    mkdir build
-    cd build
-    cmake ../
-    make
+Use CMake:<br/>
+    Copy libglfw3.a to deps<br/>
+    mkdir build<br/>
+    cd build<br/>
+    cmake ../ <br/>
+    make<br/>
 
 
 
