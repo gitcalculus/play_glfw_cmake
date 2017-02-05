@@ -27,3 +27,10 @@ main.c copy from glfw-3.2.1/example/simple.c
 deps & include also copy from glfw-3.2.1
 
 myCMath is for testing custom static lib
+
+
+
+
+
+
+EOF
